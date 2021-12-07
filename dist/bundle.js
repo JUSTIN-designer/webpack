@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=0;e+=2,e=3(e,3),console.log(e)})();
